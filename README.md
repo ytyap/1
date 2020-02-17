@@ -4,8 +4,12 @@
 ### Merge 3 tables on a common PK
 ### At the same  time, add a new column to record today's date
 
-use ProjectInfo.xls
+import xls
+import pandas as pd
 
-ALTER TABLE `ProjectInfo.xls` RENAME COLUMN "column 1" TO "Project_Name";
+info = pd.read_excel('ProjectInfo.xls')
+info.head()
+
+#ALTER TABLE `ProjectInfo.xls` RENAME COLUMN "column 1" TO "Project_Name";
   
   
