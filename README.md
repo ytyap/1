@@ -10,6 +10,6 @@ import pandas as pd
 info = pd.read_excel('ProjectInfo.xls')
 print(info.head())
 
-#ALTER TABLE `ProjectInfo.xls` RENAME COLUMN "column 1" TO "Project_Name";
+
   
   
