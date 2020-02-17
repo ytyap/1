@@ -1,0 +1,125 @@
+,,ic_approved_lcy,ic_ tpc_base_case_lcy,target_tpc_lcy,actual_lcy
+Shichinohe 7,Development,0,0,700,0
+Shichinohe 7,Utility,0,0,1500,650
+Shichinohe 7,Land,0,0,2000,0
+Shichinohe 7,EPC,0,0,2500,0
+Shichinohe 7,Finance,0,0,4000,0
+Shichinohe 7,Contingency,0,0,5000,0
+Shichinohe 7,Shared Services,0,0,7000,0
+Nanbucho3,Development,0,0,10000,0
+Nanbucho3,Utility,0,0,20000,5110000
+Nanbucho3,Land,0,0,300000,0
+Nanbucho3,EPC,0,0,400000,0
+Nanbucho3,Finance,0,0,500000,0
+Nanbucho3,Contingency,0,0,600000,0
+Nanbucho3,Shared Services,0,0,700000,0
+Japan - Solar,Development,0,0,10700,0
+Japan - Solar,Utility,0,0,21500,5110650
+Japan - Solar,Land,0,0,302000,0
+Japan - Solar,EPC,0,0,402500,0
+Japan - Solar,Finance,0,0,504000,0
+Japan - Solar,Contingency,0,0,605000,0
+Japan - Solar,Shared Services,0,0,707000,0
+Japan,Development,0,0,10700,0
+Japan,Utility,0,0,21500,5110650
+Japan,Land,0,0,302000,0
+Japan,EPC,0,0,402500,0
+Japan,Finance,0,0,504000,0
+Japan,Contingency,0,0,605000,0
+Japan,Shared Services,0,0,707000,0
+Rocky 1,Development,1746031.746031746,2380952.380952381,0,0
+Rocky 1,Land,317460.31746031746,793650.7936507936,0,0
+Rocky 1,Shared Services,0,0,0,7500000
+Australia - Solar,Development,1746031.746031746,2380952.380952381,0,0
+Australia - Solar,Land,317460.31746031746,793650.7936507936,0,0
+Australia - Solar,Shared Services,0,0,0,7500000
+Rocky 7,Development,117647.0588235294,2941176.470588235,0,0
+Australia - Wind,Development,117647.0588235294,2941176.470588235,0,0
+Australia,Development,1863678.8048552754,5322128.851540616,0,0
+Australia,Land,317460.31746031746,793650.7936507936,0,0
+Australia,Shared Services,0,0,0,7500000
+Stingray,Development,0,0,0,7534302668
+Stingray,Utility,0,0,0,329000000
+Stingray,Shared Services,0,0,0,7301327935
+Gajah,Shared Services,0,0,0,507913435
+Shark,Development,0,0,14000000000,0
+Shark,Land,0,0,24920000000,0
+Shark,EPC,0,0,209300000000,0
+Shark,Finance,0,0,9100000000,0
+Shark,Contingency,0,0,10780000000,0
+Indonesia - Solar,Development,0,0,14000000000,7534302668
+Indonesia - Solar,Utility,0,0,0,329000000
+Indonesia - Solar,Land,0,0,24920000000,0
+Indonesia - Solar,EPC,0,0,209300000000,0
+Indonesia - Solar,Finance,0,0,9100000000,0
+Indonesia - Solar,Contingency,0,0,10780000000,0
+Indonesia - Solar,Shared Services,0,0,0,7809241370
+Rhino,Development,0,0,0,348375000
+Rhino,Utility,0,0,0,67503017
+Rhino,Shared Services,0,0,0,1127819737
+LumbaLumba,Shared Services,0,0,0,486481184
+Paus,Development,0,0,0,3918154497
+Paus,Shared Services,0,0,0,1174047876
+Rajawali,Development,0,0,0,191000000
+Rajawali,Shared Services,0,0,0,947412635
+Hornbill,Development,0,0,58100000000,547719468
+Hornbill,Utility,0,0,0,344615185
+Hornbill,Land,0,0,50400000000,84820000
+Hornbill,EPC,0,0,1131480000000,0
+Hornbill,Finance,0,0,104160000000,0
+Hornbill,Contingency,0,0,3500000000,0
+Hornbill,Shared Services,0,0,0,935054682
+Indonesia - Wind,Development,0,0,58100000000,5005248965
+Indonesia - Wind,Utility,0,0,0,412118202
+Indonesia - Wind,Land,0,0,50400000000,84820000
+Indonesia - Wind,EPC,0,0,1131480000000,0
+Indonesia - Wind,Finance,0,0,104160000000,0
+Indonesia - Wind,Contingency,0,0,3500000000,0
+Indonesia - Wind,Shared Services,0,0,0,4670816114
+Indonesia,Development,0,0,72100000000,12539551633
+Indonesia,Utility,0,0,0,741118202
+Indonesia,Land,0,0,75320000000,84820000
+Indonesia,EPC,0,0,1340780000000,0
+Indonesia,Finance,0,0,113260000000,0
+Indonesia,Contingency,0,0,14280000000,0
+Indonesia,Shared Services,0,0,0,12480057484
+Balboa,Development,0,0,506148156,6150340
+Balboa,Utility,0,0,0,270000
+Balboa,Land,0,0,0,3048300
+Balboa,Shared Services,0,0,21202241,0
+Balboa,Others,0,0,1160126,0
+Talim,Development,0,0,441045606,0
+Talim,Land,0,0,0,62825
+Talim,Shared Services,0,0,152001880,0
+Talim,Others,0,0,6529668,0
+Storm,Development,0,0,154944078,1450
+Storm,Utility,0,0,0,7407.6
+Storm,Shared Services,0,0,7869058,0
+Storm,Others,0,0,2834830,0
+Philippines - Wind,Development,0,0,1102137840,6151790
+Philippines - Wind,Utility,0,0,0,277407.6
+Philippines - Wind,Land,0,0,0,3111125
+Philippines - Wind,Shared Services,0,0,181073179,0
+Philippines - Wind,Others,0,0,10524624,0
+Philippines,Development,0,0,1102137840,6151790
+Philippines,Utility,0,0,0,277407.6
+Philippines,Land,0,0,0,3111125
+Philippines,Shared Services,0,0,181073179,0
+Philippines,Others,0,0,10524624,0
+Hancock,Development,0,0,0,300000
+Hancock,Utility,0,0,0,1400800
+Hancock,Land,0,0,0,136886
+Taiwan - Solar,Development,0,0,0,300000
+Taiwan - Solar,Utility,0,0,0,1400800
+Taiwan - Solar,Land,0,0,0,136886
+Taiwan,Development,0,0,0,300000
+Taiwan,Utility,0,0,0,1400800
+Taiwan,Land,0,0,0,136886
+All Country,Development,1863678.8048552754,5322128.851540616,73202148540,12546003423
+All Country,Utility,0,0,21500,747907059.6
+All Country,Land,317460.31746031746,793650.7936507936,75320302000,88068011
+All Country,EPC,0,0,1340780402500,0
+All Country,Finance,0,0,113260504000,0
+All Country,Contingency,0,0,14280605000,0
+All Country,Shared Services,0,0,181780179,12487557484
+All Country,Others,0,0,10524624,0

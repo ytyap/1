@@ -1,0 +1,301 @@
+,project_reference_number,project_name,country_code,technology,project_creation_date,location,site_coordinate,allocated_entity,ppa_tenure_yrs,ppa_expiry,budgeted_ntp,projected_or_actual_ntp,budgeted_cod,projected_or_actual_cod,ic_aproved_base_case,ic_tpc_base_case,target_tpc_usd,target_tpc_lcy,project_classification,reason_for_shelving_or_holding,cosec_classification,gross_capacity_mwp,gross_capacity_mwac,grid_capacity_mwac,economic_ownership,net_capacity_mwp,projected_pre-ntp_dev_cost,actual_spend_to_date_usd,actual_spend_to_date_lcy,current_month_as_of,project_completion_per
+Shichinohe 7,44,Shichinohe 7,JP,Solar,,"Shichinohe, Aomori",40.76N 141.20E,Other Japan Entity,20,2037-11-02,,2015-06-01,,2017-11-07,0,0,0,22700,Operational,,Operational,9,0,0,1,9,0,0,650,Feb 20,0.16
+Aomori,10,Aomori,JP,Solar,,"Shinjo Yamada, Aomori",40.49N 130.39E,Other Japan Entity,20,2036-05-28,,2015-04-01,,2016-06-01,0,0,0,0,Operational,,Operational,30,0,0,1,30,0,0,0,Feb 20,0
+Enokibayashi,18,Enokibayashi,JP,Solar,,"Tohoku, Aomori",36.40N 140.35E,Other Japan Entity,20,2036-12-03,,2015-06-01,,2016-12-01,0,0,0,0,Operational,,Operational,6,0,0,1,6,0,0,0,Feb 20,0
+Kasama,51,Kasama,JP,Solar,,Ibaraki,,GK NRE-32 Investment,0,,,2020-02-01,,2021-04-01,0,0,0,0,Shovel Ready,,Shovel Ready,53.4,0,0,1,53.4,33.3,0,0,Feb 20,0.75
+Kawakami,53,Kawakami,JP,Solar,,"Kawakami, Nagano",,GK NRE-10 Investment,0,,,2019-07-01,,2020-12-15,0,0,0,0,Construction,,Construction,37,0,0,1,37,20.8,0,0,Feb 20,0
+Kawakami 2,55,Kawakami 2,JP,Solar,,Nagano,,GK NRE-24 Investment,0,,,2019-09-23,,2020-12-15,0,0,0,0,Construction,,Construction,31,0,0,1,31,16.6,0,0,Feb 20,0
+Kurisu,19,Kurisu,JP,Solar,,"Kurisu, Hiroshima",34.37N 132.13E,Other Japan Entity,20,2035-01-21,,2013-12-01,,2015-01-01,0,0,0,0,Operational,,Operational,4,0,0,1,4,0,0,0,Feb 20,0
+Mito 1,9,Mito 1,JP,Solar,,"Mito, Ibaraki",36.40N 140.35E,GK NRE-17 Investment,20,2036-08-28,,2015-06-01,,2016-09-01,0,0,0,0,Operational,,Operational,36,0,0,1,36,0,0,0,Feb 20,0
+HitachiOmiya,52,HitachiOmiya,JP,Solar,,Ibaraki,35.99N 138.56E,GK NRE-19 Investment,0,,,2018-12-01,,2019-11-30,0,0,0,0,Construction,,Construction,41,19,18,1,41,0,0,0,Feb 20,0
+Aomori 2,56,Aomori 2,JP,Solar,,Aomori,,GK NRE-37 Investment,0,,,2019-09-23,,2021-05-01,0,0,0,0,Construction,,Construction,25,0,0,1,25,7.1,0,0,Feb 20,0.8
+Nihonmatsu,11,Nihonmatsu,JP,Solar,,"Nihonmatsu, Fukushima",37.53N 140.54E,Other Japan Entity,20,2037-07-30,,2016-09-01,,2017-08-01,0,0,0,0,Operational,,Operational,30,0,0,1,30,0,0,0,Feb 20,0
+Noheji,42,Noheji,JP,Solar,,"Noheji, Aomori",40.85N 141.09E,Other Japan Entity,20,2037-10-01,,2016-05-01,,2017-10-01,0,0,0,0,Operational,,Operational,14,0,0,1,14,0,0,0,Feb 20,0
+Shichinohe 1,41,Shichinohe 1,JP,Solar,,"Shichinohe, Aomori",40.78N 141.18E,Other Japan Entity,20,2037-11-12,,2015-06-01,,2017-11-17,0,0,0,0,Operational,,Operational,27,0,0,1,27,0,0,0,Feb 20,0
+Shichinohe 5,43,Shichinohe 5,JP,Solar,,"Shichinohe, Aomori",40.74N 141.20E,Other Japan Entity,20,2037-11-10,,2015-06-01,,2017-11-19,0,0,0,0,Operational,,Operational,11,0,0,1,11,0,0,0,Feb 20,0
+Shichinohe 3,16,Shichinohe 3,JP,Solar,,"Shichinohe, Aomori",40.73N 141.19E,GK NRE-05 Investment,20,2037-03-05,,2015-02-01,,2017-03-01,0,0,0,0,Operational,,Operational,13,0,0,1,13,0,0,0,Feb 20,0
+Shichinohe 6,13,Shichinohe 6,JP,Solar,,"Shichinohe, Aomori",40.73N 141.15E,GK NRE-05 Investment,20,2037-06-28,,2016-06-01,,2017-07-01,0,0,0,0,Operational,,Operational,15,0,0,1,15,0,0,0,Feb 20,0
+Shichinohe 8,14,Shichinohe 8,JP,Solar,,"Shichinohe, Aomori",40.74N 141.12E,GK NRE-05 Investment,20,2037-03-05,,2016-05-01,,2017-03-01,0,0,0,0,Operational,,Operational,15,0,0,1,15,0,0,0,Feb 20,0
+Nikko,209,Nikko,JP,Solar,,Tochigi,,GK NRE-30 Investment,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,34,0,0,1,34,46.9,0,0,Feb 20,0
+Yaita B,144,Yaita B,JP,Solar,,0,,GK NRE-31 Investment,0,,,,,,0,0,0,0,Shelved,Shelved,Shelved,40,0,0,1,40,0,0,0,Feb 20,0
+Kibi,216,Kibi,JP,Solar,,#N/A,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,80,0,0,1,80,0,0,0,Feb 20,0
+Otawara,210,Otawara,JP,Solar,,Tochigi,,GK NRE-33 Investment,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,25,0,0,1,25,31.4,0,0,Feb 20,0
+Koriyama,200,Koriyama,JP,Solar,,Fukushima,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Background issue of seller,Shelved,95,0,0,1,95,46.8,0,0,Feb 20,0
+Ena,214,Ena,JP,Solar,,#N/A,,Other Japan Entity,0,,,2021-01-01,,2021-12-31,0,0,0,0,Early Development,,Early Development,13.5,0,0,1,13.5,19.7,0,0,Feb 20,0
+Ono,194,Ono,JP,Solar,,Fukushima,,GK NRE-39 Investment,0,,,2019-01-18,,2020-04-01,0,0,0,0,Construction,,Construction,35,0,0,1,35,0,0,0,Feb 20,0
+Usuki,211,Usuki,JP,Solar,,Oita,,GK NRE-40 Investment,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+HitachiOmiya2,197,HitachiOmiya2,JP,Solar,,Ibaraki,,GK NRE-42 Investment,0,,,2020-01-01,,2021-05-01,0,0,0,0,Shovel Ready,,Shovel Ready,14,0,0,1,14,13.9,0,0,Feb 20,0.74
+Aioi,142,Aioi,JP,Solar,,Hyogo,,GK NRE-26 Investment,0,,,,,,0,0,0,0,Shelved,Opposition of local community,Shelved,52,0,0,1,52,0,0,0,Feb 20,0
+Sannan,12,Sannan,JP,Solar,,"Sannan, Hyogo",35.10N 135.00E,Other Japan Entity,20,2035-09-19,,2014-10-01,,2015-09-01,0,0,0,0,Operational,,Operational,18,0,0,1,18,0,0,0,Feb 20,0
+Sano,54,Sano,JP,Solar,,Tochigi,,GK Energy Forest,0,,,2019-12-30,,2021-11-30,0,0,0,0,Shovel Ready,,Shovel Ready,35.9,0,0,1,35.9,27.1,0,0,Feb 20,0.75
+Sotsukozawa,40,Sotsukozawa,JP,Solar,,"Shichinohe, Aomori",40.77N 141.19E,Other Japan Entity,0,,,2017-02-05,,2019-05-02,0,0,0,0,Operational,,Operational,34,0,0,1,34,0,0,0,Feb 20,0
+Shichinohe 9,57,Shichinohe 9,JP,Solar,,Aomori,,GK NRE-21 Investment,0,,,2018-10-12,,2021-12-01,0,0,0,0,Construction,,Construction,25,0,0,1,25,0,0,0,Feb 20,0
+Tokai,17,Tokai,JP,Solar,,"Tokai, Ibaraki",36.45N 140.58E,GK NRE-16 Investment,20,2036-04-21,,2015-06-01,,2016-04-01,0,0,0,0,Operational,,Operational,8,0,0,1,8,0,0,0,Feb 20,0
+Towada,59,Towada,JP,Solar,,"Towada, Aomori",40.39N 141.12E,GK NRE-36 Investment,0,,,2018-04-02,,2019-10-17,0,0,0,0,Construction,,Operational,18,0,0,1,18,0,0,0,Feb 20,0
+Wakuya,58,Wakuya,JP,Solar,,Miyagi,,GK NRE-20 Investment,0,,,2019-03-01,,2021-07-30,0,0,0,0,Construction,,Construction,25,0,0,1,25,0,0,0,Feb 20,0
+Yaita,39,Yaita,JP,Solar,,"Yaita, Tochigi",36.78N 139.98E,Other Japan Entity,20,2038-04-27,,2017-02-09,,2018-05-02,0,0,0,0,Operational,,Operational,41,0,0,1,41,0,0,0,Feb 20,0
+Suimei,199,Suimei,JP,Solar,,"Shimane, Ochi",,GK NRE-43 Investment,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,45,0,0,1,45,43.9,0,0,Feb 20,0
+Nihonmatsu2,213,Nihonmatsu2,JP,Solar,,#N/A,,Other Japan Entity,0,,,2020-02-28,,2021-07-01,0,0,0,0,Advanced,,Advanced,17.4,0,0,1,17.4,17.3,0,0,Feb 20,0.52
+Nanbucho,143,Nanbucho,JP,Solar,,Aomori,,Other Japan Entity,0,,,,,2021-11-01,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,20.7,0,0,Feb 20,0
+Ebino,182,Ebino,JP,Solar,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,41,0,0,1,41,67.8,0,0,Feb 20,0
+Nishiki,190,Nishiki,JP,Solar,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,7,0,0,1,7,0,0,0,Feb 20,0
+Sh6 Extension,195,Sh6 Extension,JP,Solar,,"Shichinohe, Aomori",,GK NRE-05 Investment,0,,,2018-10-30,,2019-11-30,0,0,0,0,Construction,,Operational,3,0,0,1,3,0,0,0,Feb 20,0
+Sh8 Extension,196,Sh8 Extension,JP,Solar,,"Shichinohe, Aomori",,GK NRE-05 Investment,0,,,2018-10-30,,2019-11-30,0,0,0,0,Construction,,Operational,4,0,0,1,4,0,0,0,Feb 20,0
+Nanao,198,Nanao,JP,Solar,,Ishikawa,,Other Japan Entity,0,,,,,,0,0,0,0,Development,,Shelved,63,0,0,1,63,39.1,0,0,Feb 20,0.21
+Nagatoro,201,Nagatoro,JP,Solar,,"Saitama, Nagatoro",,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,23,0,0,1,23,17.7,0,0,Feb 20,0
+Tokai Extension,207,Tokai Extension,JP,Solar,,"Tokai, Ibaraki",,GK NRE-16 Investment,0,,,2019-09-01,,2021-01-01,0,0,0,0,Advanced,,Advanced,2,0,0,1,2,1.1,0,0,Feb 20,0.35000000000000003
+Mito Extension,208,Mito Extension,JP,Solar,,"Mito, Ibaraki",,GK NRE-17 Investment,0,,,2019-11-01,,2020-09-01,0,0,0,0,Shovel Ready,,Shovel Ready,4.4,0,0,1,4.4,3.1,0,0,Feb 20,0.35000000000000003
+Kita Ibaraki,215,Kita Ibaraki,JP,Solar,,#N/A,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,18,0,0,1,18,25.8,0,0,Feb 20,0
+Kimino,217,Kimino,JP,Solar,,#N/A,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,13,0,0,1,13,39.9,0,0,Feb 20,0
+Nishishirakawa,220,Nishishirakawa,JP,Solar,,Fukushima,,Other Japan Entity,0,,,,,,0,0,0,0,Shelved,Gap with seller in terms and condition,Shelved,18,0,0,1,18,55.5,0,0,Feb 20,0
+JP Target 2019 (1),242,JP Target 2019 (1),JP,Solar,,,,Other Japan Entity,0,,2021-12-01,,2022-12-01,,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,0,0,0,Feb 20,0
+JP Target 2019 (2),243,JP Target 2019 (2),JP,Solar,,,,Other Japan Entity,0,,2022-12-01,,2023-12-01,,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,0,0,0,Feb 20,0
+JP Target 2020 (1),244,JP Target 2020 (1),JP,Solar,,,,Other Japan Entity,0,,,2022-01-30,,2023-07-01,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,0,0,0,Feb 20,0
+JP Target 2020 (2),245,JP Target 2020 (2),JP,Solar,,,,Other Japan Entity,0,,,2022-12-31,,2024-12-31,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,0,0,0,Feb 20,0
+JP Target 2021 (1),246,JP Target 2021 (1),JP,Solar,,,,Other Japan Entity,0,,2023-12-01,2023-12-31,2024-12-01,2025-12-31,0,0,0,0,Early Development,,Early Development,0,0,0,0,150,0,0,0,Feb 20,0
+Kisarazu,248,Kisarazu,JP,Solar,,,,Other Japan Entity,0,,,2020-04-01,,2022-11-01,0,0,0,0,Shovel Ready,,Shovel Ready,25.7,0,0,1,25.7,45.3,0,0,Feb 20,0.72
+Bandai,249,Bandai,JP,Solar,,,,Other Japan Entity,0,,,2019-12-01,,2022-01-01,0,0,0,0,Advanced,,Advanced,36,0,0,1,36,43.5,0,0,Feb 20,0.44
+Takayama,250,Takayama,JP,Solar,,,,Other Japan Entity,0,,,2022-01-01,,2022-11-01,0,0,0,0,Advanced,,Advanced,45,0,0,1,45,12.8,0,0,Feb 20,0.64
+Yaita2,251,Yaita2,JP,Solar,,,,Other Japan Entity,0,,,,,2019-09-02,0,0,0,0,Operational,,Operational,22.8,0,0,1,22.8,0,0,0,Feb 20,0
+Nanbucho2,315,Nanbucho2,JP,Solar,2019-06-01,,,Other Japan Entity,0,,,2022-05-01,,2023-03-01,0,0,0,0,Shovel Ready,,Shovel Ready,15.4,0,0,1,15.4,0,0,0,Feb 20,0.62
+Nanbucho3,316,Nanbucho3,JP,Solar,2019-06-01,,,Other Japan Entity,0,,,2021-11-01,,2022-09-01,0,0,0.023578751164958063,2530000,Shovel Ready,,Shovel Ready,5.1,0,0,1,5.1,0,0.04762348555452004,5110000,Feb 20,0.53
+Kamogawa,317,Kamogawa,JP,Solar,2019-06-01,,,Other Japan Entity,0,,,2020-01-01,,2023-04-01,0,0,0,0,Early Development,,Early Development,106,0,0,0.5,53,0,0,0,Feb 20,0
+Komono,318,Komono,JP,Solar,2019-06-01,,,Other Japan Entity,0,,,2020-01-31,,2022-06-01,0,0,0,0,Early Development,,Early Development,45.7,0,0,0.7,31.99,0,0,0,Feb 20,0
+Kawazu,319,Kawazu,JP,Solar,2019-08-01,,,Other Japan Entity,0,,,2021-04-01,,2022-04-01,0,0,0,0,Development,,Development,36,0,0,1,36,0,0,0,Feb 20,0.41000000000000003
+Nanbucho5,346,Nanbucho5,JP,Solar,,,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,4.3,0,0,1,4.3,0,0,0,Feb 20,0
+Kunisaki Solar,347,Kunisaki Solar,JP,Solar,,,,Other Japan Entity,0,,,2013-12-01,,2014-08-01,0,0,0,0,Operational,,Operational,2.4,0,0,1,2.4,0,0,0,Feb 20,0
+Kunimi Solar,348,Kunimi Solar,JP,Solar,,,,Other Japan Entity,0,,,2014-12-01,,2016-02-01,0,0,0,0,Operational,,Operational,13,0,0,1,13,0,0,0,Feb 20,0
+Maniwa,350,Maniwa,JP,Solar,2019-10-01,Niigata,,Other Japan Entity,0,,,2023-11-30,,2025-07-31,0,0,0,0,Early Development,,Early Development,80.4,68.6,68.6,1,80.4,0,0,0,Feb 20,0
+Nakadomari,60,Nakadomari,JP,Wind,,Aomori,,Other Japan Entity,0,,,2019-12-01,,2021-12-01,0,0,0,0,Advanced,,Advanced,36,0,0,1,36,15.5,0,0,Feb 20,0.71
+Kainan,86,Kainan,JP,Wind,,Wakayama,,GK NWE-03 Investment,0,,,2023-06-30,,2025-06-30,0,0,0,0,Early Development,,Early Development,54,0,0,1,54,10.5,0,0,Feb 20,0.39
+Tottori 2,83,Tottori 2,JP,Wind,,Chugoku,,GK NWE-09 Investment,0,,,2023-12-30,,2025-12-30,0,0,0,0,Early Development,,Early Development,144,0,0,1,144,27.9,0,0,Feb 20,0.42
+Kinokawa,85,Kinokawa,JP,Wind,,Kansai,,GK NWE-09 Investment,0,,,2023-06-30,,2025-06-30,0,0,0,0,Early Development,,Early Development,90,0,0,1,90,17.4,0,0,Feb 20,0.27
+Kinan,93,Kinan,JP,Wind,,Kansai,,GK NWE-09 Investment,0,,,,,,0,0,0,0,Early Development,,Shelved,8,0,0,1,8,1.5,0,0,Feb 20,0
+Ichikikushikino,149,Ichikikushikino,JP,Wind,,Kagoshima,,GK NWE-09 Investment,0,,,2023-04-30,,2026-04-30,0,0,0,0,Early Development,,Early Development,72,0,0,1,72,14.4,0,0,Feb 20,0.53
+Matsuura,90,Matsuura,JP,Wind,,Nagasaki,,Matsuura Wind GK,0,,,2021-03-01,,2022-09-01,0,0,0,0,Early Development,,Early Development,7.5,0,0,1,7.5,1.5,0,0,Feb 20,0.42
+Reihoku 1,63,Reihoku 1,JP,Wind,,Kumamoto,,Other Japan Entity,0,,,2019-11-01,,2021-06-01,0,0,0,0,Advanced,,Advanced,7.5,0,0,1,7.5,3,0,0,Feb 20,0.77
+Reihoku 2,64,Reihoku 2,JP,Wind,,Kumamoto,,Other Japan Entity,0,,,2019-11-01,,2021-06-01,0,0,0,0,Shovel Ready,,Shovel Ready,6.8,0,0,1,6.8,2.1,0,0,Feb 20,0.78
+Saikai 1,94,Saikai 1,JP,Wind,,Nagasaki,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,7,0,0,1,7,1.4,0,0,Feb 20,0
+Saikai 2,61,Saikai 2,JP,Wind,,Nagasaki,,Other Japan Entity,0,,,2021-02-01,,2022-08-01,0,0,0,0,Development,,Development,7.5,0,0,1,7.5,1.5,0,0,Feb 20,0.5700000000000001
+Saikai 4,62,Saikai 4,JP,Wind,,Nagasaki,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,8,0,0,1,8,1.5,0,0,Feb 20,0
+Shinonsen,84,Shinonsen,JP,Wind,,Hyogo,,GK NWE-09 Investment,0,,,2023-04-30,,2026-04-30,0,0,0,0,Early Development,,Early Development,91.8,0,0,1,91.8,17.8,0,0,Feb 20,0.39
+Shimane 2,88,Shimane 2,JP,Wind,,Chugoku,,GK NWE-12 Investment,0,,,2025-04-30,,2027-04-30,0,0,0,0,Early Development,,Early Development,54,0,0,1,54,10.5,0,0,Feb 20,0.48
+Karatsu,89,Karatsu,JP,Wind,,Kyushu,,GK NWE-09 Investment,0,,,2022-01-31,,2024-07-31,0,0,0,0,Early Development,,Early Development,54,0,0,1,54,75.5,0,0,Feb 20,0.54
+Saikai 8,92,Saikai 8,JP,Wind,,Kyushu,,GK NWE-09 Investment,0,,,,,,0,0,0,0,Early Development,,Shelved,8,0,0,1,8,1.5,0,0,Feb 20,0
+Kanegasaki,145,Kanegasaki,JP,Wind,,Iwate,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,222,0,0,1,222,43,0,0,Feb 20,0
+Kakegawa,151,Kakegawa,JP,Wind,,Shizuoka,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,54,0,0,1,54,10.5,0,0,Feb 20,0
+Shizuoka,152,Shizuoka,JP,Wind,,Shizuoka,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,54,0,0,1,54,10.5,0,0,Feb 20,0
+Fujieda,153,Fujieda,JP,Wind,,Shizuoka,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,54,0,0,1,54,10.5,0,0,Feb 20,0
+Daisen 2,82,Daisen 2,JP,Wind,,0,,GK NWE-09 Investment,0,,,,,,0,0,0,0,Early Development,,Shelved,54,0,0,1,54,0,0,0,Feb 20,0
+Isahaya,87,Isahaya,JP,Wind,,0,,GK NWE-09 Investment,0,,,,,,0,0,0,0,Early Development,,Shelved,8,0,0,1,8,0,0,0,Feb 20,0
+Sasebo 3,91,Sasebo 3,JP,Wind,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,8,0,0,1,8,0,0,0,Feb 20,0
+Nagasaki 1,147,Nagasaki 1,JP,Wind,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,144,0,0,1,144,0,0,0,Feb 20,0
+Saga,148,Saga,JP,Wind,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,108,0,0,1,108,0,0,0,Feb 20,0
+Chisanmoriyama,150,Chisanmoriyama,JP,Wind,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,54,0,0,1,54,0,0,0,Feb 20,0
+Makurazaki,154,Makurazaki,JP,Wind,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,36,0,0,1,36,0,0,0,Feb 20,0
+Tottori Seibu,146,Tottori Seibu,JP,Wind,,Tottori,,GK NWE-09 Investment,0,,,2023-04-30,,2026-04-30,0,0,0,0,Early Development,,Early Development,129,0,0,1,129,41.2,0,0,Feb 20,0.42
+Hioki,320,Hioki,JP,Wind,2019-08-01,,,Other Japan Entity,0,,,2023-12-30,,2025-12-30,0,0,0,0,Early Development,,Early Development,37.4,0,0,1,37.4,0,0,0,Feb 20,0.35000000000000003
+Yakurai,321,Yakurai,JP,Wind,2019-08-01,,,Other Japan Entity,0,,,2024-06-30,,2026-12-30,0,0,0,0,Early Development,,Early Development,126,0,0,1,126,0,0,0,Feb 20,0.14
+Kunisaki,212,Kunisaki,JP,Wind,,"Kunisaki, Oita",33.52N 131.70E,GK NRE Kunisaki,20,2034-09-20,,2013-12-01,,2014-08-01,0,0,0,0,Early Development,,Early Development,54,0,0,1,54,6.5,0,0,Feb 20,0
+Kunimi,15,Kunimi,JP,Wind,,"Kunimi, Fukushima",37.90N 140.59E,Other Japan Entity,20,2036-01-28,,2014-12-01,,2016-02-01,0,0,0,0,Early Development,,Early Development,99,0,0,2,198,0,0,0,Feb 20,0.28
+Nishiyama,351,Nishiyama,JP,Wind,2019-12-01,,,Other Japan Entity,0,,,2024-01-31,,2026-11-30,0,0,0,0,Early Development,,Early Development,74.2,74.2,74.2,1,74.2,0,0,0,Feb 20,0
+Ebisu,191,Ebisu,JP,,,0,,Other Japan Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,320,0,0,0,0,0,0,0,Feb 20,0
+Alpha 1,1993,Alpha 1,SG,Solar,,,,,0,,,,,,0,0,0,0,Early Development,,,0,0,0,0,0,0,0,0,Feb 20,0
+FTP,2,FTP,IN,Wind,,"Madhya Pradesh, India","23°11'8.80""N, 76°13'41.75""E",Other India Entity,25,2041-03-10,,2015-04-01,,2016-03-27,0,0,0,0,Operational,,Operational,108,0,0,1,108,0,0,0,Feb 20,0
+JMD,8,JMD,IN,Wind,,"Madhya Pradesh, India","22°59'55.19""N, 76°10'59.26""E",Other India Entity,25,2040-03-29,,2014-07-01,,2015-03-30,0,0,0,0,Operational,,Operational,26,0,0,1,26,0,0,0,Feb 20,0
+JTH,7,JTH,IN,Wind,,"Maharashtra, India","16°59'7.82""N, 75°14'45.63""E",Other India Entity,13,2028-02-04,,2014-10-01,,2015-03-31,0,0,0,0,Operational,,Operational,30,0,0,1,30,0,0,0,Feb 20,0
+MNG,6,MNG,IN,Wind,,"Karnataka, India","16°39'50.03""N, 75°50'19.48""E",Other India Entity,10,2026-11-29,,2015-08-01,,2017-01-31,0,0,0,0,Operational,,Operational,46,0,0,1,46,0,0,0,Feb 20,0
+TGP2,3,TGP2,IN,Wind,,"Andhra Pradesh, India","14°41'30.84""N, 77°10'26.21""E",Other India Entity,25,2040-03-10,,2014-03-01,,2015-03-30,0,0,0,0,Operational,,Operational,100,0,0,1,100,0,0,0,Feb 20,0
+TGP1,4,TGP1,IN,Wind,,"Andhra Pradesh, India","14°42'21.88""N, 77°13'44.59""E",Other India Entity,25,2037-12-05,,2013-10-01,,2014-08-07,0,0,0,0,Operational,,Operational,54,0,0,1,54,0,0,0,Feb 20,0
+Kamakarahatti,80,Kamakarahatti,IN,Wind,,"Dhamane S.Belgaum, Karnataka",,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,100,0,0,1,100,0,0,0,Feb 20,0
+Chennagiri,134,Chennagiri,IN,Wind,,"Indiranagara, Karnataka",,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,80,0,0,1,80,0,0,0,Feb 20,0
+MNG2,81,MNG2,IN,Wind,,585028E 1838401N,,Other India Entity,0,,,,,,0,0,0,0,On Hold,,On Hold,250,250,0,1,250,0,0,0,Feb 20,0
+MNG3,141,MNG3,IN,Wind,,585028E 1838401N,,Other India Entity,0,,,,,,0,0,0,0,Shelved,Combined MNG 2 & MNG3 as MNG2,Shelved,0,0,0,0,0,0,0,0,Feb 20,0
+Gudadur,77,Gudadur,IN,Wind,,"Gudadur M, Karnataka, India",,Other India Entity,0,,,,,,0,0,0,0,On Hold,,On Hold,100,100,0,1,100,0,0,0,Feb 20,0
+Hattarwat,79,Hattarwat,IN,Wind,,"Tavandi, Karnataka",,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,48,0,0,1,48,0,0,0,Feb 20,0
+Rodalabanda,78,Rodalabanda,IN,Wind,,"Rodalabanda, Karnataka",,Other India Entity,0,,,,,,0,0,0,0,On Hold,,On Hold,100,100,0,1,100,0,0,0,Feb 20,0
+Kankurthy,135,Kankurthy,IN,Wind,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,54,0,0,1,54,0,0,0,Feb 20,0
+Betamcherla,136,Betamcherla,IN,Wind,,"Papasanikottala, Andhra Pradesh",,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,52,0,0,1,52,0,0,0,Feb 20,0
+Tirumalapur,137,Tirumalapur,IN,Wind,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Bavanshi,138,Bavanshi,IN,Wind,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Devereddypalli,139,Devereddypalli,IN,Wind,,"Bhupasamudram, Andhra Pradesh",,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,48,0,0,1,48,0,0,0,Feb 20,0
+Somavaram,140,Somavaram,IN,Wind,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,46,0,0,1,46,0,0,0,Feb 20,0
+PTN,5,PTN,IN,Wind,,"Gujarat, India","23°40'54.26""N, 71°21'5.47""E",Other India Entity,25,2040-08-05,,2015-04-01,,2015-11-16,0,0,0,0,Operational,,Operational,50,0,0,1,50,0,0,0,Feb 20,0
+Amreli,247,Amreli,IN,Wind,,,,Other India Entity,0,,,2019-09-25,,2020-06-15,0,0,0,0,Shovel Ready,,Shovel Ready,96.8,96.8,96.8,1,96.8,0,0,0,Feb 20,1
+Wind bid-1,338,Wind bid-1,IN,Wind,,,,Other India Entity,0,,,2021-02-01,,2022-05-31,0,0,0,0,Early Development,,Early Development,300,300,300,1,300,0,0,0,Feb 20,0
+Wind bid-2,340,Wind bid-2,IN,Wind,2019-10-01,,,Other India Entity,0,,,2022-04-01,,2023-07-31,0,0,0,0,Early Development,,Early Development,300,300,300,1,300,0,0,0,Feb 20,0
+Wind bid-3,341,Wind bid-3,IN,Wind,,,,Other India Entity,0,,,2023-06-01,,2024-09-30,0,0,0,0,Early Development,,Early Development,300,300,300,1,300,0,0,0,Feb 20,0
+KN,38,KN,IN,Solar,,"Guttigoli, Bagalkot District, Karnataka",16.15 N; 75.28E,Other India Entity,25,2043-04-27,,2017-08-11,,2018-04-27,0,0,0,0,Operational,,Operational,135,0,0,1,135,0,0,0,Feb 20,0
+TS Minpoor,TS Minpoor,TS Minpoor,IN,Solar,,,,,0,,2017-07-31,,2017-05-01,,0,0,0,0,Early Development,,,0,0,0,0,0,0,0,0,Feb 20,0
+TS Sadashivpet,TS Sadashivpet,TS Sadashivpet,IN,Solar,,,,,0,,2017-07-31,,2017-01-05,,0,0,0,0,Early Development,,,0,0,0,0,0,0,0,0,Feb 20,0
+Bhaskar4,129,Bhaskar4,IN,Solar,,N/A (Auction Project - not decided),,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,150,0,0,1,150,0,0,0,Feb 20,0
+Bhaskar5,130,Bhaskar5,IN,Solar,,N/A (Auction Project - not decided),,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,150,0,0,1,150,0,0,0,Feb 20,0
+Bhaskar6,131,Bhaskar6,IN,Solar,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,150,0,0,1,150,0,0,0,Feb 20,0
+Bhaskar7,132,Bhaskar7,IN,Solar,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,150,0,0,1,150,0,0,0,Feb 20,0
+Bhaskar8,133,Bhaskar8,IN,Solar,,0,,Other India Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,150,0,0,1,150,0,0,0,Feb 20,0
+TS,1,TS,IN,Solar,,"Minpur, Medak District, Telangana","Minpur: 18.002833 N; 78.054528 E; SDS: 17.601444 N; 77.790194 E,",Other India Entity,25,2042-03-24,,2016-07-31,,2017-05-03,0,0,0,0,Operational,,Operational,130,0,0,1,130,0,0,0,Feb 20,0
+Solar bid-1,342,Solar bid-1,IN,Solar,2019-10-01,,,Other India Entity,0,,,2020-02-01,,2021-05-31,0,0,0,0,Early Development,,Early Development,200,130,130,1,200,0,0,0,Feb 20,0
+Solar bid-2,343,Solar bid-2,IN,Solar,,,,Other India Entity,0,,,2023-04-01,,2024-07-31,0,0,0,0,Early Development,,Early Development,200,130,130,1,200,0,0,0,Feb 20,0
+Solar bid-3,344,Solar bid-3,IN,Solar,,,,Other India Entity,0,,,2024-05-01,,2025-08-31,0,0,0,0,Early Development,,Early Development,200,130,130,1,200,0,0,0,Feb 20,0
+Collinsville North,46,Collinsville North,AU,Solar,,"Springlands, Queensland",,Collinsville North Solar Sub-Sub-Trust,0,,,2024-01-01,,2025-01-01,0,0,0,0,Advanced,,Advanced,105,19,18,1,105,0,0,0,Feb 20,0.44
+Wandoan1,65,Wandoan1,AU,Solar,,"Woleebee, Queensland",,Vena Energy Services (Australia) Pty Ltd,0,,,2022-07-01,,2023-07-01,0,0,0,0,Advanced,,Advanced,260,0,0,1,260,0,0,0,Feb 20,0.35000000000000003
+Miles1,66,Miles1,AU,Solar,,"Columboola, Queensland",,Vena Energy Services (Australia) Pty Ltd,0,,,2024-01-01,,2025-01-01,0,0,0,0,Early Development,,Early Development,200,19,18,1,200,0,0,0,Feb 20,0.32
+TailemBend2,67,TailemBend2,AU,Solar,,"Elwomple, South Australia",,Vena Energy Services (Australia) Pty Ltd,0,,,2020-07-01,,2021-07-01,0,0,0,0,Advanced,,Advanced,151.4,0,0,2,302.8,0,0,0,Feb 20,0.59
+Wandoan2,106,Wandoan2,AU,Solar,,"Woleebee, Queensland",,Vena Energy Services (Australia) Pty Ltd,0,,,2024-01-01,,2025-01-01,0,0,0,0,Development,,Development,288.5,19,18,1,288.5,0,0,0,Feb 20,0.43
+Wandoan3,107,Wandoan3,AU,Solar,,"Woleebee, Queensland",,Vena Energy Services (Australia) Pty Ltd,0,,,2025-01-01,,2026-01-01,0,0,0,0,Development,,Development,288.5,0,0,1,288.5,0,0,0,Feb 20,0.33
+YulebaNorth1,109,YulebaNorth1,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,2024-01-01,,2025-01-01,0,0,0,0,Early Development,,Early Development,154.6,0,0,1,154.6,0,0,0,Feb 20,0.31
+YulebaNorth2,110,YulebaNorth2,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,2025-01-01,,2026-01-01,0,0,0,0,Early Development,,Early Development,154.6,0,0,1,154.6,0,0,0,Feb 20,0.31
+Finley,111,Finley,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,2022-06-30,,2023-09-29,0,0,0,0,Early Development,,Shelved,190,19,18,1,190,0,0,0,Feb 20,0.22
+Narromine,112,Narromine,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Shelved,126,0,0,1,126,0,0,0,Feb 20,0.22
+DarlingtonPoint,113,DarlingtonPoint,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Shelved,126,0,0,1,126,0,0,0,Feb 20,0.22
+Buronga,114,Buronga,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Shelved,126,0,0,1,126,0,0,0,Feb 20,0.22
+Wagga,115,Wagga,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,2024-01-01,,2025-01-01,0,0,0,0,Early Development,,Early Development,200,0,0,1,200,0,0,0,Feb 20,0.3
+Wellington,116,Wellington,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Shelved,123,0,0,1,123,0,0,0,Feb 20,0.22
+Tumut,117,Tumut,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Shelved,45,0,0,1,45,0,0,0,Feb 20,0.22
+Miles 2,181,Miles 2,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,2026-01-01,,2027-01-01,0,0,0,0,Early Development,,Early Development,100,0,0,1,100,0,0,0,Feb 20,0.31
+Miles 3,189,Miles 3,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,2026-01-01,,2027-01-01,0,0,0,0,Early Development,,Early Development,100,0,0,1,100,0,0,0,Feb 20,0.31
+Gulgong,218,Gulgong,AU,Solar,,#N/A,,Vena Energy Services (Australia) Pty Ltd,0,,,2023-07-01,,2024-07-01,0,0,0,0,Development,,Development,220,0,0,1,220,0,0,0,Feb 20,0.31
+TailemBend1,36,TailemBend1,AU,Solar,,0,"35°16'34.169"", 139°28'37.213""",Other Australia Entity,0,,,2018-02-14,,2019-04-29,0,0,0,0,Operational,,Operational,127,19,18,1,127,0,0,0,Feb 20,0.22
+Rocky 1,306,Rocky 1,AU,Solar,2019-08-20,Sydney,33.52N 131.70E,Collinsville North Solar Sub-Trust,25,2025-08-16,2020-08-28,,2021-08-19,,0,0,0,0,Early Development,,,0,0,0,0,0,0,5.081250000508125,7500000,Feb 20,0.23
+Miles2,108,Miles2,AU,Solar,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,0,0,0,Feb 20,0.22
+Elysium,184,Elysium,AU,Wind,,0,,Vena Energy Services (Australia) Pty Ltd,0,,,,,,0,0,0,0,Early Development,,Shelved,140,0,0,1,140,0,0,0,Feb 20,0.22
+St Helena,2011,St Helena,AU,Wind,,,,,0,,,2024-01-01,,2025-01-01,0,0,0,0,Early Development,,Early Development,200,0,0,0.51,200,0,0,0,Feb 20,0.22
+Rocky 7,310,Rocky 7,AU,Wind,,,,,0,2019-08-11,,,,,0,0,0,0,Early Development,,Early Development,0,0,0,0.01,0,0,0,0,Feb 20,0.22
+Blades of Glory,349,Blades of Glory,AU,Wind,,,,Other Australia Entity,0,,,2024-01-01,,2025-01-01,0,0,0,0,Early Development,,Early Development,200,0,0,0.51,102,0,0,0,Feb 20,0.22
+Wandoan South BESS,308,Wandoan South BESS,AU,,2019-08-01,,,Other Australia Entity,0,,,2020-04-01,,2021-07-01,0,0,0,0,Advanced,,Advanced,100,0,0,1,100,0,0,0,Feb 20,0.37
+Tailem Bend 2 Battery,311,Tailem Bend 2 Battery,AU,,2019-10-04,,,Other Australia Entity,0,,,2020-07-01,,2021-07-01,0,0,0,0,Advanced,,Advanced,0,0,0,0,0,34,0,0,Feb 20,0.58
+ailemBend2,309,ailemBend2,AU,,,,,Other Australia Entity,0,,,,,,0,0,0,0,Early Development,,Early Development,0,0,0,0,0,0,0,0,Feb 20,0.22
+Blue Marli,183,Blue Marli,AU,,,#N/A,,Vena Energy Services (Australia) Pty Ltd,0,,,,,2025-03-01,0,0,0,0,Early Development,,Shelved,2000,0,0,0,0,0,0,0,Feb 20,0.22
+Stingray,68,Stingray,ID,Solar,,"Kubu, Karangasem Regency, Bali",,PT. Infrastruktur Terbarukan Dinamika,0,,,2022-02-01,,2022-10-01,0,0,0,0,On Hold,On hold - VE to decide next course of action as no bid was submitted,On Hold,25,0,0,1,25,5.8,0,15164630603,Feb 20,0.28
+Bali 2,203,Bali 2,ID,Solar,,Auction,,Other Indonesia Entity,0,,,2022-02-01,,2022-10-01,0,0,0,0,Shelved,On hold - VE to decide next course of action as no bid was submitted,Shelved,25,0,0,1,25,5.8,0,0,Feb 20,0
+Gajah,118,Gajah,ID,Solar,,East Java,,Other Indonesia Entity,0,,,2023-12-01,,2024-12-01,0,0,0,0,Early Development,,Early Development,50,0,0,1,50,9,0,507913435,Feb 20,0.1
+Java2,119,Java2,ID,Solar,,West Java,,Other Indonesia Entity,0,,,2023-12-01,,2024-12-01,0,0,0,0,Early Development,,Early Development,50,0,0,1,50,8.4,0,0,Feb 20,0.09
+Java3,120,Java3,ID,Solar,,Central Java,,Other Indonesia Entity,0,,,2023-12-01,,2024-12-01,0,0,0,0,Early Development,,Early Development,50,0,0,1,50,8.1,0,0,Feb 20,0.1
+Java4,121,Java4,ID,Solar,,Central Java,,Other Indonesia Entity,0,,,2023-12-01,,2024-12-01,0,0,0,0,Early Development,,Early Development,50,0,0,1,50,8.5,0,0,Feb 20,0.1
+Java 5,202,Java 5,ID,Solar,,0,,Other Indonesia Entity,0,,,,,,0,0,0,0,Shelved,Shelved as not enough planned capacity by PLN. Focus on Java 1-4,Shelved,100,0,0,1,100,15,0,0,Feb 20,0
+Jeneponto,69,Jeneponto,ID,Solar,,"Tamanroya, Arungkeke, Jeneponto Regency, South Sulawesi, Indonesia",,PT Infrastruktur Terbarukan Indonesia,0,,,,,,0,0,0,0,Shelved,"No support at Regional PLN, LCOE higher than wind and bid ceiling",Shelved,20,0,0,1,20,3,0,0,Feb 20,0
+Lombok,48,Lombok,ID,Solar,,"Pringgabaja, Pohgading, East Lombok Regency, West Nusa Tenggara","8°31'23.92""S 116°38'2.34""E",Other Indonesia Entity,0,,,2018-04-19,,2019-07-02,0,0,0,0,Operational,,Operational,7,0,0,1,7,0,0,0,Feb 20,0
+Lombok2,49,Lombok2,ID,Solar,,"JM Soerelage, Lenek Lauq, East Lombok Regency, West Nusa Tenggara","8°37'24.3""S 116°31'35.9""E",Other Indonesia Entity,0,,,2018-04-19,,2019-07-02,0,0,0,0,Operational,,Operational,7,0,0,1,7,0,0,0,Feb 20,0
+Lombok3,50,Lombok3,ID,Solar,,"Sengkol, Pengembur, Central Lombok Regency, West Nusa Tenggara, Indonesia","8°48'16.5""S 116°15'22.6""E.",Other Indonesia Entity,0,,,2018-04-19,,2019-07-02,0,0,0,0,Operational,,Operational,7,0,0,1,7,0,0,0,Feb 20,0
+Maluku,123,Maluku,ID,Solar,,"Maluku, Indonesia",,PT Infrastruktur Terbarukan Prakarsa (ITP),0,,,,,,0,0,0,0,Shelved,VEI have no resources to focus on Maluku,Shelved,30,0,0,1,30,6.8,0,0,Feb 20,0
+Papua,124,Papua,ID,Solar,,"Papua, Indonesia",,PT Infrastruktur Terbarukan Prakarsa (ITP),0,,,,,,0,0,0,0,Shelved,"Remote and scattered solar likely, shelved as the area is remote and volatile",Shelved,30,0,0,1,30,6.8,0,0,Feb 20,0
+Pandeglang,122,Pandeglang,ID,Solar,,120°12'21.97“E,,PT. Infrastruktur Terbarukan Wahana,0,,,,,,0,0,0,0,Shelved,"No support at Regional PLN, LCOE higher than wind and bid ceiling",Shelved,20,0,0,0.95,19,2.9,0,0,Feb 20,0
+Tango,70,Tango,ID,Solar,,0,,PT Infrastuktur Terbarukan Sedaya (ITS),0,,,,,,0,0,0,0,Shelved,"No support at Regional PLN, LCOE higher than wind and bid ceiling",Shelved,20,0,0,1,20,3,0,0,Feb 20,0
+Minut,47,Minut,ID,Solar,,"Likupang, Likupang II, North Minahasa Regency, North Sulawesi","1°39'19.74""N 125° 5'41.32""E",Other Indonesia Entity,0,,,2018-04-15,,2019-09-05,0,0,0,0,Operational,,Operational,21,0,0,1,21,0,0,0,Feb 20,0
+Mackerel,71,Mackerel,ID,Solar,,"Likupang, Likupang II, North Minahasa Regency, North Sulawesi",,Other Indonesia Entity,0,,,2021-01-01,,2022-09-30,0,0,0,0,On Hold,Shelved as not enough planned capacity by PLN,On Hold,15,0,0,1,15,4.7,0,0,Feb 20,0.1
+North Sumatra,204,North Sumatra,ID,Solar,,N/A,,Other Indonesia Entity,0,,,,,,0,0,0,0,Shelved,RFP process still incomplete,Shelved,35,0,0,1,35,5.3,0,0,Feb 20,0
+Shark,236,Shark,ID,Solar,,,,Other Indonesia Entity,0,,2020-12-31,2021-06-01,2021-12-31,2022-06-01,0,0,0,268100000000,Development,,Development,21,0,0,1,21,2.1,0,0,Feb 20,0.09
+Floating Solar,237,Floating Solar,ID,Solar,,,,Other Indonesia Entity,0,,,2022-06-01,,2023-12-01,0,0,0,0,On Hold,On-hold as regulatory hurdles need to be clarified,On Hold,200,0,0,1,200,6,0,0,Feb 20,0
+Sumbawa,239,Sumbawa,ID,Solar,,,,Other Indonesia Entity,0,,,2020-12-01,,2021-12-01,0,0,0,0,Shelved,On hold as PLN NTB have not indicated intention to procure at this stage,Shelved,8,0,0,1,8,3.7,0,0,Feb 20,0
+Palu,240,Palu,ID,Solar,,,,Other Indonesia Entity,0,,,2022-06-01,,2023-12-01,0,0,0,0,Shelved,On hold as previous request from ESDM post tsunami has not been followed up,Shelved,25,18.75,18.75,1,25,4,0,0,Feb 20,0
+Bali 3,241,Bali 3,ID,Solar,,,,Other Indonesia Entity,0,,,2024-06-01,,,0,0,0,0,Shelved,Unlikely to be developed as VEI need to decide next step in Bali 1,Shelved,50,0,0,1,50,9.8,0,0,Feb 20,0
+Anoa,76,Anoa,ID,Wind,,"120°17‘32.00""E",,PT Energi Bayu Persada,0,,,2022-06-01,,2023-12-01,0,0,0,0,On Hold,Not in RUPTL - Recommend to PLN for RUPTL 2020,On Hold,28,0,0,1,28,10,0,0,Feb 20,0.09
+Rhino,75,Rhino,ID,Wind,,Kupang,,PT Energi Bayu Investama,0,,2020-10-31,2024-10-01,2021-10-30,2025-06-01,0,0,0,0,Advanced,,Advanced,20,0,0,1,20,5.3,0,1543697754,Feb 20,0.22
+Takalar,74,Takalar,ID,Wind,,0,,PT Energi Bayu Investama,0,,,2026-12-01,,2027-12-01,0,0,0,0,Shelved,VE to work with Air Force re stack height,Shelved,53,0,0,1,53,14,0,0,Feb 20,0
+LumbaLumba,128,LumbaLumba,ID,Wind,,0,,PT Energi Paramita Investama (EPI),0,,,2020-12-01,,2021-12-01,0,0,0,0,On Hold,VEI to work with ITDC and PLN NTB to pursue crystal tariff approach,On Hold,28,0,0,1,28,9,0,486481184,Feb 20,0.06
+Paus3,125,Paus3,ID,Wind,,0,,PT. Infrastruktur Terbarukan Wahana,0,,,,,,0,0,0,0,Shelved,Will be worked on post Paus and Paus 2,Shelved,200,0,0,0.95,190,28.2,0,0,Feb 20,0
+Paus,72,Paus,ID,Wind,,"Situpotong, Sukamulya, Pandeglang Regency, Banten",,Other Indonesia Entity,0,,2021-01-31,2022-10-01,2022-01-31,2024-04-01,0,0,0,0,Advanced,,Advanced,120,0,0,1,120,55.1,0,5092202373,Feb 20,0.3
+Paus2,127,Paus2,ID,Wind,,0,,PT. Infrastruktur Terbarukan Wahana,0,,,,,,0,0,0,0,Shelved,Will be worked on post Paus,Shelved,80,0,0,0.95,76,12.9,0,0,Feb 20,0
+Rajawali,126,Rajawali,ID,Wind,,0,,PT Infrastruktur Terbarukan Kusuma (ITK),0,,2020-04-30,2023-12-01,2021-07-31,2024-12-01,0,0,0,0,Development,,Development,85,0,0,1,85,9.6,0,1138412635,Feb 20,0.21
+Tolo1,37,Tolo1,ID,Wind,,"South Sulawesi Province, Indonesia","5°37'14.97""S 119°46'11.02""E",Other Indonesia Entity,0,,,2017-06-15,,2019-05-14,0,0,0,0,Operational,,Operational,72,0,0,1,72,0,0,0,Feb 20,0
+Hornbill,73,Hornbill,ID,Wind,,"121°11’00.00""E",,PT Energi Paramita Nusantara,0,,2020-10-31,2021-01-01,2022-04-30,2022-07-31,0,0,0,1347640000000,Advanced,,Advanced,72,0,0,1,72,15.2,0,1912209335,Feb 20,0.22
+West Java 1,205,West Java 1,ID,Wind,,,,Other Indonesia Entity,0,,,,,,0,0,0,0,Shelved,Replaced by West Java 2,Shelved,50,0,0,1,50,11,0,0,Feb 20,0
+West Java 2,206,West Java 2,ID,Wind,,,,Other Indonesia Entity,0,,,2024-06-01,,2025-12-01,0,0,0,0,Early Development,,Early Development,100,0,0,1,100,13.5,0,0,Feb 20,0.12
+Central Java,238,Central Java,ID,Wind,,,,Other Indonesia Entity,0,,,2024-06-01,,2025-12-01,0,0,0,0,Early Development,,Early Development,50,0,0,1,50,17.4,0,0,Feb 20,0.14
+Akuaman,185,Akuaman,ID,,,0,,Other Indonesia Entity,0,,,,,,0,0,0,0,Early Development,,Shelved,79,0,0,0,0,15.9,0,0,Feb 20,0
+Balibago,158,Balibago,PH,Solar,,"14°20‘30.00""N 121°7‘00.00""E",,1 Barracuda Energy Corp,0,,,2022-03-31,,2023-03-31,0,0,0,0,Early Development,,Early Development,50,0,0,0.5,25,0.1,0,0,Feb 20,0
+Bay,155,Bay,PH,Solar,,0,,2 Barracuda Energy Corp,0,,,2022-01-31,,2022-10-31,0,0,0,0,Early Development,,Early Development,50,0,0,0.5,25,0.1,0,0,Feb 20,0
+Cabuyao,157,Cabuyao,PH,Solar,,"14°16‘30.00""N 121°10‘30.00""E",,3 Barracuda Energy Corp,0,,,,,,0,0,0,0,Shelved,No feasible interconnection point (capacity at nearest Meralco sub-station not available for foreseeable future and NGCP sub-station RoW next to impossible).,Shelved,96,0,0,0.5,48,4.7,0,0,Feb 20,0
+Calamba,159,Calamba,PH,Solar,,"14°14‘00.00""N 121°11’00.00""E",,4 Barracuda Energy Corp,0,,,2022-11-30,,2023-11-30,0,0,0,0,Early Development,,Early Development,100,0,0,0.5,50,0.1,0,0,Feb 20,0
+Garcia,23,Garcia,PH,Solar,,"Currimao, Illocos Norte","18°03’09.64""N, 120°29’07.00""E",Mirae Asia Energy Corporation,20,2036-02-24,,2015-07-03,,2016-02-29,0,0,0,0,Operational,,Operational,20,0,0,1,20,0,0,0,Feb 20,0
+Hero,163,Hero,PH,Solar,,"14°42‘40.00""N 120°17‘32.00""E",,Other Philippines Entity,0,,,,,,0,0,0,0,Shelved,No off-taker; land not acquirable due to pricing issues.,Shelved,25,0,0,0.5,12.5,1.4,0,0,Feb 20,0
+Ironman,22,Ironman,PH,Solar,,"Ormoc City, Leyte","11°05’04""N, 24°37’30.00""E",First Soleq Energy Corp (fka Phil Solar Farm - Leyte Inc),20,2035-03-30,,2014-09-10,,2015-04-04,0,0,0,0,Operational,,Operational,30,0,0,1,30,0,0,0,Feb 20,0
+LosBanos,162,LosBanos,PH,Solar,,"14°12‘00.00""N 121°12‘00.00""E",,5 Barracuda Energy Corp,0,,,2022-09-30,,2023-06-30,0,0,0,0,Early Development,,Early Development,100,0,0,0.5,50,0.1,0,0,Feb 20,0
+Lumban2,160,Lumban2,PH,Solar,,"14°18'46.38""N 121°25'41.24""E",,Other Philippines Entity,0,,,2023-01-31,,2023-09-30,0,0,0,0,Early Development,,Early Development,65.6,0,0,0.5,32.8,0.1,0,0,Feb 20,0
+Calauan,164,Calauan,PH,Solar,,"14°11‘30.00""N 121°19‘00.00""E",,Other Philippines Entity,0,,,,,,0,0,0,0,Shelved,No off-taker; land not acquirable due to pricing issues.,Shelved,25,0,0,0.5,12.5,1.45,0,0,Feb 20,0
+Lumban,161,Lumban,PH,Solar,,"14°20‘00.00""N 121°25‘00.00""E",,Other Philippines Entity,0,,,,,,0,0,0,0,Shelved,Land not suitable for ground-mounted solar as it was discovered that it gets flooded half the time every year.,Shelved,40,0,0,0.5,20,2.13,0,0,Feb 20,0
+Mauban,156,Mauban,PH,Solar,,"14°5‘00.00""N 121°45‘30.00""E",,Ormoc Solar Energy Corp.,0,,,,,,0,0,0,0,Shelved,Land not acquirable; heavily forested site with endangered high-value native tree species; no access or available infrastructure.,Shelved,100,0,0,0.5,50,4.84,0,0,Feb 20,0
+Viper,96,Viper,PH,Solar,,"14°15‘30.00""N 120°49‘30.00""E",,Ormoc Solar Energy Corp.,0,,,,,,0,0,0,0,Shelved,Land not acquirable due to too many claimants and agrarian reform issues.,Shelved,76,0,0,0.5,38,3.7,0,0,Feb 20,0
+Pollo,21,Pollo,PH,Solar,,"Cadiz City, Negros Occidental","10°54’58.24""N, 123°18’09.60""E",Helios Solar Energy Corp.,20,2036-03-09,,2015-04-27,,2016-03-14,0,0,0,0,Operational,,Operational,133,0,0,1,133,0,0,0,Feb 20,0
+Zorro,24,Zorro,PH,Solar,,"Bukidnon, Mindanao",7°33’15” N; 124°20” E,Asian Greenenergy Corp.,20,2036-03-08,,2015-07-13,,2016-03-13,0,0,0,0,Operational,,Operational,11,0,0,1,11,0,0,0,Feb 20,0
+Garcia2,165,Garcia2,PH,Solar,,"18°03‘10.00""N 120°29‘.00""E",,Nuevo Solar Energy Corp,0,,,2020-11-04,,2021-07-04,0,0,0,0,Early Development,,Early Development,50,0,0,0.5,25,2.1,0,0,Feb 20,0.64
+Talim Floating Solar,322,Talim Floating Solar,PH,Solar,2019-01-31,"14°21'38.28""N 121°13'52.78""E",,Island Wind Energy Corp,0,,,2021-11-30,,2022-07-31,0,0,0,0,Early Development,,Early Development,100,0,0,0.5,50,0,0,0,Feb 20,0
+Buko,167,Buko,PH,Wind,,0,,Quezon Wind Energy Corp,0,,,,,,0,0,0,0,Shelved,No feasible interconnection point. Nearest NGCP substation 60 km away.,Shelved,50,0,0,0.5,25,5.2,0,0,Feb 20,0
+Balboa,193,Balboa,PH,Wind,,"City of Antipolo and Municipality of Tanay, Province of Riza",,7 BARRACUDA ENERGY CORP.,0,,2020-01-31,2022-01-31,2022-08-31,2023-10-31,0,0,0,528510523,Development,,Development,250,30,35,0.5,125,23,0,9468640,Feb 20,0.41000000000000003
+Talim,97,Talim,PH,Wind,,"14°21'38.28""N 121°13'52.78""E",,Island Wind Energy Corp,0,,2018-12-01,2020-12-31,2020-06-01,2022-08-31,0,0,0,599577154,Advanced,,Advanced,153,0,0,0.5,76.5,8,0,62825,Feb 20,0.7000000000000001
+Pillila,25,Pillila,PH,Wind,,"Pililla, Rizal Province","14° 28’ 54.20” N, 121° 21’ 1.53” E",Alternergy Wind One Corporation,20,2035-05-27,,2014-05-30,,2015-06-01,0,0,0,0,Operational,,Operational,54,0,0,0.95,51.3,0,0,0,Feb 20,0
+RedAnt,166,RedAnt,PH,Wind,,0,,Camsur II Wind Energy Corp.,0,,,,,,0,0,0,0,Shelved,No transmission/power evacuation route; limited offtake capacity.,Shelved,50,0,0,0.5,25,5.2,0,0,Feb 20,0
+Sembrano,100,Sembrano,PH,Wind,,"14° 24’ N, 121° 22’ E",,Alternergy Sembrano Wind Corp.,0,,,,,,0,0,0,0,On Hold,,On Hold,54,0,0,0.95,51.3,0,0,0,Feb 20,0
+Talisay,99,Talisay,PH,Wind,,"Vinzons, Camarines Norte, Philippines",,Camsur I Wind Energy Corp.,0,,,,,,0,0,0,0,Shelved,Low wind output; 4 m/s measured wind speed infeasible.,Shelved,50,0,0,0.5,25,5.19,0,0,Feb 20,0
+Typhoon,168,Typhoon,PH,Wind,,0,,Samar Wind Energy Corp,0,,,,,,0,0,0,0,Shelved,No transmission/power evacuation route; limited offtake capacity.,Shelved,50,0,0,0.5,25,5.22,0,0,Feb 20,0
+WhiteSand,98,WhiteSand,PH,Wind,,"Lian, Batangas, Philippines",,Other Philippines Entity,0,,,,,,0,0,0,0,Shelved,Land not acquirable; prospective site owned by Filipino tycoon.,Shelved,50,0,0,0.5,25,5.19,0,0,Feb 20,0
+Storm,192,Storm,PH,Wind,,"Municipalities of San Isidro and Calbayog, Northern and Eastern Samar",,6 Barracuda Energy Corp,0,,2020-04-30,2021-08-31,2021-10-31,2023-02-28,0,0,0,165647966,Development,,Development,60,0,0,0.6,36,3.4,0,8857.6,Feb 20,0.42
+Wawa,95,Wawa,PH,,,0,,Olympia Violago Water & Power Inc,0,,,,,,0,0,0,0,Early Development,,Shelved,500,0,0,0,0,14.6,0,0,Feb 20,0
+BSS,27,BSS,TH,Solar,,"Prankratai District, Kamphaengphet Province","16.680366°, 99.558688°",Other Thailand Entity,30,2044-03-06,,2013-02-05,,2014-03-14,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+CRE,29,CRE,TH,Solar,,"Samngao District, Tak Province","17.181817°, 99.120500°",Other Thailand Entity,30,2044-03-18,,2013-06-13,,2014-03-26,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+GLS,26,GLS,TH,Solar,,"Sri Satchanalai District, Sukhothai Province","17.509587°, 99.794986°",Other Thailand Entity,30,2044-03-02,,2013-06-13,,2014-03-10,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+IAC,30,IAC,TH,Solar,,"Samngao District, Tak Province","17.184045°, 99.128448°",Other Thailand Entity,30,2044-03-25,,2013-06-13,,2014-04-02,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+NAS,31,NAS,TH,Solar,,"Prankratai District, Kamphaengphet Province","16.640025°, 99.596900°",Other Thailand Entity,30,2044-04-01,,2013-02-05,,2014-04-09,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+ESPP1,33,ESPP1,TH,Solar,,"Warinchumrarb District, Ubonratchathani Province","15.069934°, 104.927984°",Other Thailand Entity,30,2043-09-27,,2013-02-05,,2013-10-04,0,0,0,0,Operational,,Operational,8,0,0,0.7,5.6,0,0,0,Feb 20,0
+ESPP2,34,ESPP2,TH,Solar,,"Warinchumrarb District, Ubonratchathani Province","15.069934°, 104.927984°",Other Thailand Entity,30,2044-04-17,,2013-06-10,,2014-04-25,0,0,0,0,Operational,,Operational,8,0,0,0.7,5.6,0,0,0,Feb 20,0
+ESPP3,35,ESPP3,TH,Solar,,"Warinchumrarb District, Ubonratchathani Province","15.069934°, 104.927984°",Other Thailand Entity,30,2044-04-17,,2013-06-10,,2014-04-25,0,0,0,0,Operational,,Operational,5,0,0,0.7,3.5,0,0,0,Feb 20,0
+NWS,28,NWS,TH,Solar,,"Prankratai District, Kamphaengphet Province","16.676870°, 99.566592°",Other Thailand Entity,30,2044-03-06,,2013-02-05,,2014-03-14,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+STE,32,STE,TH,Solar,,"Prankratai District, Kamphaengphet Province","16.637789°, 99.600536°",Other Thailand Entity,30,2044-04-01,,2013-02-05,,2014-04-09,0,0,0,0,Operational,,Operational,10,0,0,0.7,7,0,0,0,Feb 20,0
+Lopburi,101,Lopburi,TH,Wind,,"Kok Toom, Mueang Lop Buri District, Lopburi",,Other Thailand Entity,0,,,2021-01-01,,2022-01-01,0,0,0,0,Early Development,,Early Development,90,0,0,1,90,0.459,0,0,Feb 20,0.01
+Petchabun,188,Petchabun,TH,Wind,,Phetchabun Province,,Other Thailand Entity,0,,,,,,0,0,0,0,Shelved,Suspended,Shelved,60,0,0,1,60,0.53,0,0,Feb 20,0
+Brubeck,105,Brubeck,TW,Solar,,0,"23°40'85.49“N, 120°17'79.11“E",Soleq Taiwan Two Energy Ltd.,20,2038-01-01,,2017-10-11,,2018-01-06,0,0,0,0,Operational,,Operational,5,0,0,1,5,0,0,0,Feb 20,0
+Hancock,104,Hancock,TW,Solar,,"Fangyuan Township, Changhua County",,Soleq Taiwan Renewables Ltd.,0,,,2020-05-01,,2020-07-31,0,0,0,0,Shovel Ready,,Shovel Ready,8.2,0,0,1,8.2,3.4,0,1837686,Feb 20,0.87
+Mingus,102,Mingus,TW,Solar,,"Yizhu Township, Chiayi County",,Equis Taiwan Solar Energy Ltd.,0,,,2018-10-16,,2019-07-30,0,0,0,0,Operational,,Operational,70,0,0,1,70,0,0,0,Feb 20,0.01
+Davis,45,Davis,TW,Solar,,"Yunlin, Taiwan","23°36'57.6""N, 120° 9'25.92""E",Other Taiwan Entity,20,2037-12-24,,2017-09-11,,2017-12-29,0,0,0,0,Operational,,Operational,5,0,0,1,5,0,0,0,Feb 20,0
+Coltrane,103,Coltrane,TW,Solar,,"Kouhu Township, Yunlin County",23°35'49.37“N 120° 9'59.11“E,Other Taiwan Entity,0,,,2018-08-01,,2019-04-26,0,0,0,0,Operational,,Operational,10,0,0,1,10,0,0,0,Feb 20,0
+Gordon,169,Gordon,TW,Solar,,"Zhiben Township, Taitung County",,Other Taiwan Entity,0,,,2020-09-30,,2021-12-31,0,0,0,0,Advanced,,Advanced,202.4,0,0,1,202.4,21.5,0,0,Feb 20,0.63
+Armstrong,171,Armstrong,TW,Solar,,"Yunlin County, Taixi Township",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Bailey,172,Bailey,TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Cole,173,Cole,TW,Solar,,"Qigu District, Tainan City",,Other Taiwan Entity,0,,,2020-10-01,,2021-09-30,0,0,0,0,Advanced,,Advanced,41,0,0,1,41,8.4,0,0,Feb 20,0.5
+Daniels,174,Daniels,TW,Solar,,Pingtung County,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"After bid awarded, several additional conditions were included (e.g. USD 6.7m of Guarantee Bond required for foreign entity), hence, the Team decided not to execute the Administrative Agreement with Pingtung County Government",Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Ellis,175,Ellis,TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Hubbard,176,Hubbard,TW,Solar,,"Tainan City, Qigu District",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,35,0,0,1,35,0,0,0,Feb 20,0
+Rollins,177,Rollins,TW,Solar,,"Qigu District, Tainan City",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Solar tender released by Taisugar in 2018H2. Decided not to bid after internal evaluation (e.g. provide at least 20% of stock option to Taisugar),Shelved,20,0,0,1,20,0,0,0,Feb 20,0
+Morton,178,Morton,TW,Solar,,24°38'3.44“N 120°49'24.19“E,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,10,0,0,1,10,0,0,0,Feb 20,0
+Davis II,186,Davis II,TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,5,0,0,1,5,0,0,0,Feb 20,0
+Pepper,187,Pepper,TW,Solar,,,,Soleq Taiwan Two Energy Ltd.,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,1,0,0,1,1,0,0,0,Feb 20,0
+Getz,170,Getz,TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Solar tender released by Industrial Development Bureau (""IDB"") in 2018H1. Not awarded the project because of lower scoring in the bidding proposal.",Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Goodman,219,Goodman,TW,Solar,,"Dacheng Township, Changhua County",,Other Taiwan Entity,0,,,2020-02-01,,2020-12-31,0,0,0,0,Shelved,The project was acquired by a Singaporean developer in 2019Q4.,Shelved,50,40,40,1,50,11.4,0,0,Feb 20,0.52
+Goodman (Ph 2),221,Goodman (Ph 2),TW,Solar,,"Dacheng Township, Changhua County",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"No updates / strategies regarding the development of the land area. Hence, shelved the project",Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Collins,222,Collins,TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"The project was acquired by another developer, Chenya Energy, in 2019Q2.",Shelved,53,0,0,1,53,0,0,0,Feb 20,0
+Collins (Ph 2),223,Collins (Ph 2),TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"The project was acquired by another developer, Chenya Energy, in 2019Q2.",Shelved,46,0,0,1,46,0,0,0,Feb 20,0
+Drake,224,Drake,TW,Solar,,Pingtung County,,Other Taiwan Entity,0,,,2020-01-01,,2020-09-01,0,0,0,0,Shelved,"No further discussion with the seller, shelved from the Asset Register",Shelved,70,0,0,1,70,0,0,0,Feb 20,0.32
+Drake (Ph 2),225,Drake (Ph 2),TW,Solar,,Pingtung County,,Other Taiwan Entity,0,,,2021-01-01,,2021-09-01,0,0,0,0,Shelved,"No further discussion with the seller, shelved from the Asset Register",Shelved,69,0,0,1,69,0,0,0,Feb 20,0.33
+Drake (Ph 3),226,Drake (Ph 3),TW,Solar,,Pingtung County,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Based on the latest updates, Project Drake is split into 2 phases of development, which is 70MW and 69MW respectively. Hence, shelved the Phase 3 from Asset Register",Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Blakey,227,Blakey,TW,Solar,,"Taixi Township, Yunlin County",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"The project was originally planned to be released by Yunlin County Government (“YCG”) in 2019H1, however, the new county magistrate (elected in January) decided to reserve the land for industrial use in 2019Q2. Hence, shelved the project.",Shelved,60,0,0,1,60,0,0,0,Feb 20,0
+Blakey (Ph 2),228,Blakey (Ph 2),TW,Solar,,"Taixi Township, Yunlin County",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"The project was originally planned to be released by Yunlin County Government (“YCG”) in 2019H1, however, the new county magistrate (elected in January) decided to reserve the land for industrial use in 2019Q2. Hence, shelved the project.",Shelved,100,0,0,1,100,0,0,0,Feb 20,0
+Daniels (Ph 2),229,Daniels (Ph 2),TW,Solar,,Pingtung County,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"After bid awarded, several additional conditions were included (e.g. USD 6.7m of Guarantee Bond required for foreign entity), hence, the Team decided not to execute the Administrative Agreement with Pingtung County Government",Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+Hancock III,230,Hancock III,TW,Solar,,"Dacheng Township, Changhua County",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Unclear timeline and feasibility of Coastal Permit application; commercial terms with the seller cannot reach consensus. Hence, shelved the project.",Shelved,30,0,0,1,30,0,0,0,Feb 20,0
+Hancock III (Ph 2),231,Hancock III (Ph 2),TW,Solar,,"Dacheng Township, Changhua County",,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Unclear timeline and feasibility of Coastal Permit application; commercial terms with the seller cannot reach consensus. Hence, shelved the project.",Shelved,70,0,0,1,70,0,0,0,Feb 20,0
+URE I,232,URE I,TW,Solar,,,,Other Taiwan Entity,0,,,2023-01-01,,2024-03-31,0,0,0,0,Early Development,,Early Development,99,0,0,1,99,28.1,0,0,Feb 20,0.17
+URE I (Ph 2),233,URE I (Ph 2),TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Based on the latest updates (SEL, proposed timeline) in Jul 2019, Project URE I is a single 99MW solar project. Hence, shelved the Phase 2 from Asset Register, and increase capacity of Phase 1 from 50MW to 99MW",Shelved,50,0,0,1,50,0,0,0,Feb 20,0
+URE II,234,URE II,TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Limited information received from the seller. No updates on the project status, hence, shelved from the Asset Register.",Shelved,25,0,0,1,25,0,0,0,Feb 20,0
+URE II (Ph 2),235,URE II (Ph 2),TW,Solar,,,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,"Limited information received from the seller. No updates on the project status, hence, shelved from the Asset Register.",Shelved,100,0,0,1,100,0,0,0,Feb 20,0
+Mingus II,252,Mingus II,TW,Solar,,"Yizhu Township, Chiayi County",,Other Taiwan Entity,0,,,2021-03-01,,2021-12-31,0,0,0,0,Development,,Development,75,68,68,1,75,28.4,0,0,Feb 20,0.24
+Gordon II,324,Gordon II,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2022-01-01,,2022-09-30,0,0,0,0,Early Development,,Early Development,44,0,0,1,44,0,0,0,Feb 20,0.02
+Tainan Xuejia (Ph 1),325,Tainan Xuejia (Ph 1),TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2021-09-01,,2022-06-01,0,0,0,0,Early Development,,Early Development,20,0,0,1,20,18.2,0,0,Feb 20,0.1
+Tainan Xuejia (Ph 2),326,Tainan Xuejia (Ph 2),TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2022-01-01,,2022-09-30,0,0,0,0,Shelved,"Renamed the project as Tainan XJ, and combined two phases into one 66MW project based on the land development timeline. Hence, shelved phase 2 from the Asset Register.",Shelved,38,0,0,1,38,0,0,0,Feb 20,0.07
+Rollins II,327,Rollins II,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2022-09-01,,2023-12-31,0,0,0,0,On Hold,,On Hold,164,0,0,1,164,0,0,0,Feb 20,0
+Pingtung Fangliao (Ph 1),328,Pingtung Fangliao (Ph 1),TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2021-02-01,,2021-12-31,0,0,0,0,Shelved,"Consider the uncertainty of transferring the Administrative Agreement with Pingtung County Government, the team decided to shelved the project.",Shelved,50,0,0,1,50,0,0,0,Feb 20,0.28
+Pingtung Fangliao (Ph 2),329,Pingtung Fangliao (Ph 2),TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2022-01-01,,2022-07-31,0,0,0,0,Shelved,"Consider the uncertainty of transferring the Administrative Agreement with Pingtung County Government, the team decided to shelved the project.",Shelved,49,0,0,1,49,0,0,0,Feb 20,0.32
+Pingtung Shizi,330,Pingtung Shizi,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2021-12-01,,2022-12-31,0,0,0,0,Shelved,"Not able to reach consensus on development fee and considered the additional slopeland development refund fee, shelved from the Asset Register",Shelved,45,0,0,1,45,0,0,0,Feb 20,0.17
+Rodman II,331,Rodman II,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2024-01-01,,2024-12-31,0,0,0,0,Shelved,Development fee cannot reach consensus.,Shelved,80,0,0,1,80,0,0,0,Feb 20,0
+Tainan Xinshi (Ph 1),332,Tainan Xinshi (Ph 1),TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2021-01-01,,2021-12-31,0,0,0,0,Early Development,,Early Development,99,0,0,1,99,0,0,0,Feb 20,0
+Tainan Xinshi (Ph 2),333,Tainan Xinshi (Ph 2),TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2023-01-01,,2023-12-31,0,0,0,0,Early Development,,Early Development,99,0,0,1,99,0,0,0,Feb 20,0
+Tainan Shanhua,334,Tainan Shanhua,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2023-01-01,,2023-12-31,0,0,0,0,Early Development,,Early Development,100,0,0,1,100,0,0,0,Feb 20,0
+Yunlin Taixi,335,Yunlin Taixi,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2024-01-01,,2024-12-31,0,0,0,0,Early Development,,Early Development,100,0,0,1,100,0,0,0,Feb 20,0.04
+Taitung Chenggong,336,Taitung Chenggong,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2024-01-01,,2024-12-31,0,0,0,0,On Hold,,On Hold,100,0,0,1,100,0,0,0,Feb 20,0
+Yunlin Mailiao,337,Yunlin Mailiao,TW,Solar,2019-08-31,,,Other Taiwan Entity,0,,,2024-01-01,,2024-12-31,0,0,0,0,Early Development,,Early Development,100,0,0,1,100,0,0,0,Feb 20,0
+Hualien Sioulin,339,Hualien Sioulin,TW,Solar,2019-10-31,,,Other Taiwan Entity,0,,,2021-07-01,,2022-07-01,0,0,0,0,Development,,Development,66,0,0,1,66,0,0,0,Feb 20,0.28
+Yunlin E2,345,Yunlin E2,TW,Solar,2020-01-31,,,Other Taiwan Entity,0,,,2021-01-01,,2022-03-31,0,0,0,0,Development,,Development,270.4,204,270.4,1,270.4,0,0,0,Feb 20,0.17
+Mario,179,Mario,TW,Wind,,23°48'13.14“N 120°19'3.65“E,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,41,0,0,1,41,0,0,0,Feb 20,0
+Luigi,180,Luigi,TW,Wind,,23°46'27.62“N 120°12'21.97“E,,Other Taiwan Entity,0,,,,,,0,0,0,0,Shelved,Project included in Zenith transaction with no clear information and development strategy. Considered unrealistic and shelved from the Asset Register,Shelved,24,0,0,1,24,0,0,0,Feb 20,0
+Anjwa1,312,Anjwa1,KR,Solar,2019-08-01,,,"Other Korea, Rep. Entity",0,,,2020-05-01,,2021-03-01,0,0,0,0,Early Development,,Early Development,96,0,0,0.3,28.799999999999997,0,0,0,Feb 20,0
+Anjwa2,313,Anjwa2,KR,Solar,2019-08-01,,,"Other Korea, Rep. Entity",0,,,2021-09-01,,2022-11-01,0,0,0,0,Early Development,,Early Development,204,0,0,0.3,61.199999999999996,0,0,0,Feb 20,0
+Gunsan,314,Gunsan,KR,Wind,2019-08-01,,,"Other Korea, Rep. Entity",0,,,2024-03-01,,2026-02-01,0,0,0,0,Early Development,,Early Development,500,0,0,0.29,145,5,0,0,Feb 20,0
+Ipoh,307,Ipoh,MY,Solar,2019-08-01,,,Other Malaysia Entity,0,,,2020-03-01,,2021-01-01,0,0,0,0,Early Development,,Early Development,83.5,0,0,0.49,40.915,0,0,0,Feb 20,0
